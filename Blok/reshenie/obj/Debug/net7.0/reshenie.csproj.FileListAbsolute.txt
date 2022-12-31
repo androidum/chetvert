@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\bin\Debug\net7.0\reshenie.exe
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\bin\Debug\net7.0\reshenie.deps.json
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\bin\Debug\net7.0\reshenie.runtimeconfig.json
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\bin\Debug\net7.0\reshenie.dll
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\bin\Debug\net7.0\reshenie.pdb
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\obj\Debug\net7.0\reshenie.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\obj\Debug\net7.0\reshenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\obj\Debug\net7.0\reshenie.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\obj\Debug\net7.0\reshenie.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\obj\Debug\net7.0\reshenie.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\obj\Debug\net7.0\reshenie.dll
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\obj\Debug\net7.0\refint\reshenie.dll
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\obj\Debug\net7.0\reshenie.pdb
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\obj\Debug\net7.0\reshenie.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\Zadacha_cetvert\Blok\reshenie\obj\Debug\net7.0\ref\reshenie.dll
